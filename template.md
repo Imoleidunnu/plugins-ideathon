@@ -1,60 +1,59 @@
-# [Plugin Name] Ideathon Proposal
+# [web3-scaa-plugin] Ideathon Proposal
 
 ## Overview
 
-[Provide a brief overview of the plugin and its purpose]
-
-- How does the project works?
-- What problem the plugin solves?
-- How does it improve the DevEx or project functionality?
+The primary objective of web3 Smart Contract Automated Auditor [web3-scaa-plugin] is to optimize the procedure of auditing smart contracts for security purposes within the Ethereum ecosystem. By automating the analysis process and offering actionable recommendations for bolstering contract security, the plugin aims to elevate the developer experience (DevEx). Its core mission is to simplify the detection and resolution of security vulnerabilities present in smart contract code.
+  
 
 ## Features
 
 ### Storage
 
-[What needs to be stored in the plugin to be able to work?]
+This plugin stores uploaded smart contract code for analysis, along with analysis results and recommendations
 
 ### Functions
 
-#### `[Function 1]()`
+#### `Security Audit Functionality:`
 
-- **Description:** [Brief description of the function and its purpose.]
+- **Description:** This function conducts automated security audits on uploaded smart contract code.
 - **Steps:**
-  1. [Step 1: Describe what the function does.]
-  2. [Step 2: Describe what the function does.]
-  3. [Step 3: Describe what the function does.]
+  1. Analyze smart contract code for common security vulnerabilities.
+  2. Produce comprehensive reports that identify detected vulnerabilities and offer suggestions for resolving them.
+  3. Present the reports within the integrated development environment (IDE) for developers to assess and address as needed.
 
-[Add more functions as needed]
+
 
 ## Category
 
-[Select the appropriate category for the plugin: Community Plugin or Project Plugin for a specific project]
-
-- [] Community Plugin (general usage plugin for everyone, e.g, Multicall plugin, Tokens plugin)
-- [] Project Plugin: (plugin to interact with an specific project, e.g, Chainlink plugin, Superfluid plugin)
-- [] Other (specify)
+Project Plugin: This plugin is customized for particular projects that necessitate smart contract security auditing functionalities.
 
 ## Use Cases
 
-[List potential use cases for the plugin.]
+Developer Experience: Improve the developer experience by automating the process of auditing smart contract security and offering actionable recommendations to enhance code security.
 
-- [] Developer Experience (explain)
-- [] Gas optimization (explain)
-- [] Other (explain)
+Security Improvement: Enhance the security of decentralized applications by identifying and mitigating potential vulnerabilities in smart contract code
+
+
 
 ## Usage (Before & After Plugin)
 
-[Explain how the plugin improves the developer experience or project functionality compared to before its implementation.]
+Before the plugin implementation, developers relied on manual analysis or third-party tools for smart contract security auditing, which was time-consuming and error-prone. With the plugin, developers can seamlessly integrate automated security auditing into their development workflows, saving time and improving the overall security posture of their decentralized applications
 
 ## Mandatory
 
-[Diagram or video explaning the process/flow of the plugin]
+Please find the attached diagram explaining the process/flow of the plugin.
 
-## Tips:
+## Additional Note:
 
-[Make sure to provide a clear overview, in case we don't know how the project works, we can get a clear undesrtanding about how it works and how the plugin provides value to that specific project or use case.]
+It's exciting to share the profound impact this plugin idea [if implemented] could have on our development process. It is not just about improving smart contract security auditing, it's about making it easier for developers to create value with confidence and clarity.
 
-## Not accepted:
+Imagine a tool that not only identifies vulnerabilities, but also offers bespoke recommendations to auditors and developers on fortifying the security of their code. That's precisely what web3-scaa-plugin does.  It will not just streamline processes; it will foster a culture of innovation and trust among developers.
 
-- Ideas related to improvements of current [web3 plugins](https://web3js.org/plugins)
-- Ideas related to these projects: Chainlink, Superfluid, Near & zkSync
+If this idea is implemented, it will not just address a technical need; it would revolutionize the way we approach development. It would put the power to create secure, resilient applications directly into the hands of developers globally, enhancing not just their code but also their confidence and capability.
+
+I am excited about the possible journey ahead and the positive impact this plugin could undoubtedly have on projects and our developers.
+
+Warm regards,
+
+Imoleidunnu.
+
